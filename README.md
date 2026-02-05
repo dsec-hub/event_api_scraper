@@ -248,7 +248,6 @@ To make this configurable, a common next step is:
 ---
 
 ## Contributing
-
 PRs welcome. If you add a new provider:
 - keep provider-specific logic in `core/<provider>_api.py`
 - add a normalizer in `core/organizer.py`
@@ -257,5 +256,4 @@ PRs welcome. If you add a new provider:
 ---
 
 ## License
-
-MIT License
+Authored by [https://github.com/Zynzx101] and released under MIT License
