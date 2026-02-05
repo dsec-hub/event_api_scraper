@@ -256,4 +256,4 @@ PRs welcome. If you add a new provider:
 ---
 
 ## License
-Authored by [https://github.com/Zynzx101] and released under MIT License
+Authored by [Zynzx101](https://github.com/Zynzx101) and released under MIT License
