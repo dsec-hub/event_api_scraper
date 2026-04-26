@@ -1,4 +1,4 @@
-# event_api_scraper
+# Event Api Scraper
 
 Scrapes event listings from **Luma** and **Meetup** and returns a normalized JSON list via a small **FastAPI** service.
 
